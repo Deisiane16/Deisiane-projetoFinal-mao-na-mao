@@ -1,0 +1,26 @@
+{
+  "name": "deisiane-projetofinal-mao-na-mao",
+  "version": "1.0.0",
+  "description": "O mão na mão é uma API que disponibiliza os dados dos asilos carentes da cidade de Recife e região metropolitana e tem como o objetivo achar voluntários dispostos a doar algumas horas da sua semana para ajudar os idosos carentes dos abrigos cadastrados.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deisiane16/Deisiane-projetoFinal-mao-na-mao.git"
+  },
+  "author": "Deisiane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deisiane16/Deisiane-projetoFinal-mao-na-mao/issues"
+  },
+  "homepage": "https://github.com/Deisiane16/Deisiane-projetoFinal-mao-na-mao#readme"
+}
